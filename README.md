@@ -5,10 +5,9 @@
 - Applied Mathematics  
 
 **Fields of Interest:**  
-- Sobolev Space Training  
-- Probabilistic Graphical Models  
-- Machine Learning through Algebraic Topology  
-- Category Theory  
+- Mulitmodal Machine learning
+- Sobolev Space Training   
+- Machine Learning through Algebraic Topology & Category Theory  
 
 ---
 <h3>Github Stats</h3>
@@ -18,18 +17,18 @@
   
   <!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Annalhq&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width=""> -->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=annalhq&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=annalhq&theme=tokyo-night&hide_border=true&area=true">
 
 ---
 
 <h3>Programming Languages</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,latex,lua,md,py,r,react,rust,ts&theme=dark" />
+<p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,latex,lua,md,py,r,rust,ts&theme=dark" />
   </a>
 </p>
 
 <h3>Misc. tech stack</h3>
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=arch,astro,blender,git,kali,linux,neovim,obsidian,pytorch,react,tensorflow,threejs,vim&theme=dark" />
   </a>
 </p>
