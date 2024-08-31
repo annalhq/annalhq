@@ -21,7 +21,7 @@
 
 <h3>Programming Languages</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,latex,lua,md,py,r,rust,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,latex,lua,md,py,r,ts&theme=dark" />
   </a>
 </p>
 
