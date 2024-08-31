@@ -27,6 +27,6 @@
 
 <h3>Misc. tech stack</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=arch,astro,blender,git,kali,linux,neovim,obsidian,pytorch,react,tensorflow,threejs,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,astro,blender,git,kali,linux,neovim,obsidian,pytorch,react,tensorflow,vim&theme=dark" />
   </a>
 </p>
