@@ -18,6 +18,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=annalhq&theme=tokyo-night&hide_border=true&area=true">
   
   <img src="https://komarev.com/ghpvc/?username=annalhq&style=flat-square">
+  
 ---
 
 <h3>Programming Languages</h3>
