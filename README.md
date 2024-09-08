@@ -6,8 +6,9 @@
 
 **Fields of Interest:**  
 - Mulitmodal Machine learning
-- Sobolev Space Training   
-- Machine Learning through Algebraic Topology & Category Theory  
+- Mechanistic Interpretability
+- Machine Learning through Category Theory & Differential Geometry
+  
 <h3>
   Languages
 </h3>
