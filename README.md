@@ -15,7 +15,7 @@
 
 ---
 <h3>Github Stats</h3>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=annalhq&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=annalhq&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=annalhq&theme=tokyonight&hide_border=true" height="192px"/>
 
