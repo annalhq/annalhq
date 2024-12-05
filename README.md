@@ -5,8 +5,8 @@
 - Applied Mathematics  
 
 **Fields of Interest:**  
-- Mulitmodal Machine learning
 - Mechanistic Interpretability
+- Reinforcement Learning
 - Machine Learning through Category Theory & Differential Geometry
 
 <h3>Currently doing: </h3>
