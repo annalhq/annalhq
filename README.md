@@ -1,10 +1,6 @@
 # Hi! 👋🏻 I am Annalhq
 
 **Research Interests:**  
-- Theoretical Machine Learning  
-- Applied Mathematics  
-
-**Fields of Interest:**  
 - Mechanistic Interpretability
 - Reinforcement Learning
 - Machine Learning through Category Theory & Differential Geometry
