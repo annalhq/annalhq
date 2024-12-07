@@ -12,6 +12,7 @@
 <h3>Currently doing: </h3>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Hasekll](https://img.shields.io/badge/-Haskell-000000?style=for-the-badge&logo=haskell&logoColor=magenta)
 
 ---
 <h3>Github Stats</h3>
