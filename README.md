@@ -12,6 +12,10 @@
 ![Hasekll](https://img.shields.io/badge/-Haskell-000000?style=for-the-badge&logo=haskell&logoColor=magenta)
 ![Go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 
+<h3>Ongoing Projects: </h3>
+
+- [ ] Implementation of Langevin Algorithm
+
 ---
 <h3>Github Stats</h3>
 <!--   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=annalhq&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"> -->
