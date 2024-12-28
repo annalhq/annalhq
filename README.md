@@ -5,7 +5,7 @@
 - Reinforcement Learning
 - Machine Learning through Category Theory & Differential Geometry
 
-<h3>Currently doing: </h3>
+<h3>Currently working with: </h3>
 
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
