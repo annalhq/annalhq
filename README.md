@@ -15,6 +15,7 @@
 <h3>Ongoing Projects: </h3>
 
 - [ ] Implementation of Langevin Algorithm
+- [ ] Remake of Street Fighter using OOP, FSM (Finite state machines) and Combat AI
 
 ---
 <h3>Github Stats</h3>
