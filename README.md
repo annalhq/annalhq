@@ -17,8 +17,7 @@
 - [ ] Implementation of Langevin Algorithm
 - [ ] [Reinforcement research algorithms](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) implementations
 
-  <img src="https://komarev.com/ghpvc/?username=annalhq&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=annalhq&style=flat-square">
   
----
 
 
